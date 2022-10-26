@@ -22,7 +22,6 @@
 - 👀 I’m interested in Python, JavaScript and Unity
 - 🌱 I’m currently learning Python and Unity
 - 💞️ I’m looking to collaborate on any Unity related projects
-- 📫 How to reach me https://www.linkedin.com/in/jakub-dole%C5%BEal-4b4a20252/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

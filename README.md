@@ -19,12 +19,12 @@
 </div>
 
 ### :man_technologist: About Me :
-- 👀 I’m interested in Python, JavaScript and Unity
-- 🌱 I’m currently learning Python and Unity
+- 🕹️ I'm passionate game developer
+- 👀 I’m interested in Unity and game development overall
 - 💞️ I’m looking to collaborate on any Unity related projects
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,html,css,tailwind,tauri,neovim,bash,linux,py,cs,unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,neovim,bash,linux,py,cs,unity,godot)](https://skillicons.dev)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slimey-dev&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -29,9 +29,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slimey-dev&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimey-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 ![Slimey's github stats](https://github-readme-stats.vercel.app/api?username=slimey-dev&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimey-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Slimey-dev/Slimey-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

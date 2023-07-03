@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 🕹️ I'm passionate game developer
+- 🕹️ I'm passionate game and engine developer
 - 👀 I’m interested in Unity and game development overall
 - 💞️ I’m looking to collaborate on any Unity related projects
 

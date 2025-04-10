@@ -24,7 +24,7 @@
 - 💞️ I’m looking to collaborate on any Unity related projects
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=git,neovim,bash,linux,rust,py,cs,cpp,unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,neovim,bash,linux,rust,py,cs,cpp,unity,godot,golang)](https://skillicons.dev)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slimey-dev&theme=dark&background=000000)](https://git.io/streak-stats)
